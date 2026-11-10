@@ -1,0 +1,7 @@
+
+h1 {
+  font-family: -apple-system, BlinkMacSystemFont, "SF Pro Display", "Inter", "Helvetica Neue", Helvetica, Arial, sans-serif;
+  font-weight: 700;       /* Apple uses prominent, bold weights for titles */
+  letter-spacing: -0.02em; /* Tight tracking is key to getting that sleek Apple look */
+  color: #1d1d1f;         /* Apple's signature off-black tone */
+  }
